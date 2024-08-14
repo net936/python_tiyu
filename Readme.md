@@ -13,9 +13,7 @@
 演示地址：[https://tiyu.gitapp.cn](https://tiyu.gitapp.cn)
 
 
-## 源码下载
 
-https://github.com/geeeeeeeek/python_tiyu
 
 
 ## 主要功能
